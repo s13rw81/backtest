@@ -1,0 +1,6 @@
+.git
+.vscode
+backtest.py
+test.py
+test_ws.py
+__pycache__
